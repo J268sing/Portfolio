@@ -28,7 +28,7 @@ function Experience() {
         <ExperienceCard
           title="Petro-Wagon"
           position="Software Engineer"
-          timePeriod="August 2019 - September 2020"
+          timePeriod="August 2019 - January 2020"
           description1="Developed an Android app for an online fuel delivery service based startup from scratch"
           description2="Programmed app’s local database using Android Room and implemented SQL queries to store mutable live data"
           description3="Maintained structured code using MVVM architecture to enhance reusability and optimized app performance"
