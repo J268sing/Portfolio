@@ -41,7 +41,7 @@ function Experience() {
           timePeriod="May 2018 - August 2018"
           description1="Contributed to over 50 UI automation tests and debugged UI/UX issues, ensuring 100% compliance with quality"
           description2="Effectively wrote clean and reusable code for designing templates for clients and performed troubleshooting"
-          description3="Effectively wrote clean and reusable code for designing templates for their clients and performed troubleshooting"
+          description3="Automated testing that will be performed at all layers of programming interfaces"
           linkProject="https://github.com/J268sing/iRead"
         />
 
