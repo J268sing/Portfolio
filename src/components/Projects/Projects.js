@@ -11,6 +11,7 @@ import toDo from "../../Assets/Projects/todo.jpg";
 import Chess from "../../Assets/Projects/Chess.jpg";
 import TVscriptLogo from "../../Assets/Projects/TVscript.png";
 import FlowerPredictionLogo from "../../Assets/Projects/Flower-Prediction.png";
+import CryptoAlert from "../../Assets/Projects/CryptoAlert.jpg";
 
 function Projects() {
   return (
@@ -98,12 +99,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={toDo}
+              imgPath={CryptoAlert}
               isBlog={false}
               hasWebsite={false}
-              title="To Do"
-              description="A productivity app where users can organize their daily tasks to make the most out of the day consistently"
-              linkProject="https://github.com/J268sing/To-Do-App"
+              title="Crypto Alert"
+              description="A real-time cryptocurrency Android app that notifies the users if any cryptocurrency’s price goes beyond their set limit. Backend built in Go using echo framework"
+              linkProject="https://github.com/J268sing/Crypto-Alert"
             />
           </Col>
 
