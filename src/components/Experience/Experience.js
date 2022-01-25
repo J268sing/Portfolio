@@ -17,9 +17,10 @@ function Experience() {
           title="SOCA"
           position="Web Developer"
           timePeriod="June 2021 - August 2021"
-          description1="Built an interactive website in React for a cricket league played in Southern Ontario by 16 teams every year"
-          description2="Enhanced load time by 15% by implementing website’s state to be managed using redux and lazy loading the images"
-          description3="Increased traffic by 50% by rewriting the entire UI using responsive react components and user interactive features          "
+          description1="Built an interactive website in React and Redux for a cricket league played in Ontario by 16 teams every year"
+          description2="Improved load time by 15% by managing website’s state with redux and integrating lazy loading of images"
+          description3="Built a scalable UI capable of handling big traffic load by reducing UI re-renderings which decreased data
+          processing cost by 20%"
           linkProject="https://github.com/J268sing/iRead"
         />
 
@@ -27,10 +28,10 @@ function Experience() {
         <ExperienceCard
           title="Petro-Wagon"
           position="Software Engineer"
-          timePeriod="August 2019 - September 2020"
+          timePeriod="August 2019 - January 2020"
           description1="Developed an Android app for an online fuel delivery service based startup from scratch"
-          description2="Pioneered company’s successful pilot project and beta version of the app gained over 200 B2B clients in a span of 1 month"
-          description3="Maintained clean and structured code using MVVM architecture to enhance reusability and optimized app performance"
+          description2="Programmed app’s local database using Android Room and implemented SQL queries to store mutable live data"
+          description3="Maintained structured code using MVVM architecture to enhance reusability and optimized app performance"
           linkProject="https://github.com/J268sing/iRead"
         />
         <div style={{ paddingTop: 40 }}></div>
@@ -38,9 +39,9 @@ function Experience() {
           title="Stark Softwares"
           position="Software Developer"
           timePeriod="May 2018 - August 2018"
-          description1="Automated testing that will be performed at all layers of programming interfaces and debugged UI/UX issues"
-          description2="Maintained existing and functionality during assimilation into ongoing operations of web business"
-          description3="Effectively wrote clean and reusable code for designing templates for their clients and performed troubleshooting"
+          description1="Contributed to over 50 UI automation tests and debugged UI/UX issues, ensuring 100% compliance with quality"
+          description2="Effectively wrote clean and reusable code for designing templates for clients and performed troubleshooting"
+          description3="Automated testing that will be performed at all layers of programming interfaces "
           linkProject="https://github.com/J268sing/iRead"
         />
 
