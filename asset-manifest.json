@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e3e0ecd6.chunk.css",
-    "main.js": "/portfolio/static/js/main.09cf85c8.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.09cf85c8.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.24a11694.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.24a11694.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bd3f87ba.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bd3f87ba.js.map",
     "static/css/2.d6dc494e.chunk.css": "/portfolio/static/css/2.d6dc494e.chunk.css",
@@ -15,6 +15,7 @@
     "static/css/main.e3e0ecd6.chunk.css.map": "/portfolio/static/css/main.e3e0ecd6.chunk.css.map",
     "static/js/2.e69a6350.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e69a6350.chunk.js.LICENSE.txt",
     "static/media/Chess.69ef11ba.jpg": "/portfolio/static/media/Chess.69ef11ba.jpg",
+    "static/media/CryptoAlert.15d6e247.jpg": "/portfolio/static/media/CryptoAlert.15d6e247.jpg",
     "static/media/Flower-Prediction.3c9acc22.png": "/portfolio/static/media/Flower-Prediction.3c9acc22.png",
     "static/media/PyTorch.a30886e6.png": "/portfolio/static/media/PyTorch.a30886e6.png",
     "static/media/TVscript.a73cb785.png": "/portfolio/static/media/TVscript.a73cb785.png",
@@ -22,7 +23,7 @@
     "static/media/style.css": "/portfolio/static/media/pre.d4812f51.svg",
     "static/media/home-main.541f8179.svg": "/portfolio/static/media/home-main.541f8179.svg",
     "static/media/iRead.3bdb6c5a.jpg": "/portfolio/static/media/iRead.3bdb6c5a.jpg",
-    "static/media/resume.c9f9bb8e.pdf": "/portfolio/static/media/resume.c9f9bb8e.pdf",
+    "static/media/resume.4e031fef.pdf": "/portfolio/static/media/resume.4e031fef.pdf",
     "static/media/shopifylogo.10ac9c09.jpg": "/portfolio/static/media/shopifylogo.10ac9c09.jpg",
     "static/media/socaCricketLogo.416f03cd.jpg": "/portfolio/static/media/socaCricketLogo.416f03cd.jpg",
     "static/media/todo.c848f373.jpg": "/portfolio/static/media/todo.c848f373.jpg"
@@ -32,6 +33,6 @@
     "static/css/2.d6dc494e.chunk.css",
     "static/js/2.e69a6350.chunk.js",
     "static/css/main.e3e0ecd6.chunk.css",
-    "static/js/main.09cf85c8.chunk.js"
+    "static/js/main.24a11694.chunk.js"
   ]
 }
