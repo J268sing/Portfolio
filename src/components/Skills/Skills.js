@@ -15,10 +15,13 @@ function Skills() {
         <Card className="project-card-view">
           <Card.Body>
             <Card.Text style={{ textAlign: "justify" }}>
-              <strong>Languages</strong>
-              <div style={{ marginBottom: 20 }}>  Python • Golang • C++ • Kotlin • Java  • C • JavaScript • SQL • R • Bash • HTML/CSS</div>
+            <strong>Languages</strong>
+              <div style={{ marginBottom: 20 }}>  Python • C++ • Java • Kotlin • Golang  • C • JavaScript • SQL • Scheme • Bash • HTML/CSS</div>
               <strong>Frameworks/Libraries</strong>
-              <div>React • Node.js • Express • Android Studio • PyTorch  • MongoDb • Git • PostgreSQL • AWS  </div>
+              <div style={{ marginBottom: 20 }}>React • Redux • Node.js • Flask • PyTorch  • Pandas • Numpy • PostgreSQL • AWS  </div>
+               <strong>Tools</strong>
+              <div > • Git • Android Studio • AWS • Bash • Docker • Kubernetes  • Jira</div>
+              
             </Card.Text>
           </Card.Body>
         </Card>

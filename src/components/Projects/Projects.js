@@ -98,6 +98,17 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={toDo}
+              isBlog={false}
+              hasWebsite={false}
+              title="To Do"
+              description="A productivity app where users can organize their daily tasks to make the most out of the day consistently"
+              linkProject="https://github.com/J268sing/To-Do-App"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={shopifyLogo}
               isBlog={false}
               hasWebsite={false}
