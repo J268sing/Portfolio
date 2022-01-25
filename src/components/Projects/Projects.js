@@ -11,6 +11,7 @@ import toDo from "../../Assets/Projects/todo.jpg";
 import Chess from "../../Assets/Projects/Chess.jpg";
 import TVscriptLogo from "../../Assets/Projects/TVscript.png";
 import FlowerPredictionLogo from "../../Assets/Projects/Flower-Prediction.png";
+import CryptoAlert from "../../Assets/Projects/CryptoAlert.jpg";
 
 function Projects() {
   return (
@@ -93,6 +94,17 @@ function Projects() {
               title="TV-Script-Generator"
               description="Using Natural Language Processing, trained a recurrent neural network (RNN) that generates small new dialogues for Simpson's TV script"
               linkProject="https://github.com/J268sing/TV-Script-Generator"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={CryptoAlert}
+              isBlog={false}
+              hasWebsite={false}
+              title="Crypto Alert"
+              description="A real-time cryptocurrency Android app that notifies the users if any cryptocurrency’s price goes beyond their set limit. Backend built in Go using echo framework"
+              linkProject="https://github.com/J268sing/Crypto-Alert"
             />
           </Col>
 
