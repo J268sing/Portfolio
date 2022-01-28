@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e3e0ecd6.chunk.css",
-    "main.js": "/portfolio/static/js/main.6b54b084.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.6b54b084.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.ff6dea60.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ff6dea60.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bd3f87ba.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bd3f87ba.js.map",
     "static/css/2.d6dc494e.chunk.css": "/portfolio/static/css/2.d6dc494e.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/Chess.69ef11ba.jpg": "/portfolio/static/media/Chess.69ef11ba.jpg",
     "static/media/CryptoAlert.15d6e247.jpg": "/portfolio/static/media/CryptoAlert.15d6e247.jpg",
     "static/media/Flower-Prediction.3c9acc22.png": "/portfolio/static/media/Flower-Prediction.3c9acc22.png",
+    "static/media/MyCrypto.80996e27.jpg": "/portfolio/static/media/MyCrypto.80996e27.jpg",
     "static/media/PyTorch.a30886e6.png": "/portfolio/static/media/PyTorch.a30886e6.png",
     "static/media/TVscript.a73cb785.png": "/portfolio/static/media/TVscript.a73cb785.png",
     "static/media/avatar.5852f40f.svg": "/portfolio/static/media/avatar.5852f40f.svg",
@@ -33,6 +34,6 @@
     "static/css/2.d6dc494e.chunk.css",
     "static/js/2.e69a6350.chunk.js",
     "static/css/main.e3e0ecd6.chunk.css",
-    "static/js/main.6b54b084.chunk.js"
+    "static/js/main.ff6dea60.chunk.js"
   ]
 }
