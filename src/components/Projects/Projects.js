@@ -26,6 +26,46 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
 
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={CryptoAlert}
+              isBlog={false}
+              hasWebsite={false}
+              title="My Crypto"
+              description="A cryptocurrency app where users make a fake portfolio using paper money and perform real life trading stragies to
+              get used to crypto world before putting in real money.
+              This app is built using technologies like ANDROID ROOM for local storage database, DAGGER 2 for Dependency Injection and
+              Restful Web Services using RETROFIT, OKHTTP, GLIDE, GSON and COROUTINES"
+              linkProject="https://github.com/J268sing/Crypto-Alert"
+            />
+          </Col>
+
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={CryptoAlert}
+              isBlog={false}
+              hasWebsite={false}
+              title="Crypto Alert"
+              description="A real-time cryptocurrency Android app that notifies the users if any cryptocurrency’s price goes beyond their set limit. Backend built in Go using echo framework"
+              linkProject="https://github.com/J268sing/Crypto-Alert"
+            />
+          </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Chess}
+              isBlog={false}
+              hasWebsite={false}
+              title="AI Chess"
+              description="A chess game implemented in C++ with a support of playing against computer. It uses Min-Max algorithm to generate optimal computer moves to increase level of difficulty. The app implements optimized coding principles like OOP and esign patterns like observer, decorator"
+              linkProject="https://github.com/J268sing/cpp/tree/master/Game-of-chess"
+            />
+          </Col>
+
+
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={socaCricketLogo}
@@ -37,6 +77,9 @@ function Projects() {
               link="http://www.socacricket.com"
             />
           </Col>
+
+          
+
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -52,15 +95,24 @@ function Projects() {
               linkProject="https://github.com/J268sing/iRead"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={Chess}
+              imgPath={shopifyLogo}
               isBlog={false}
               hasWebsite={false}
-              title="Chess"
-              description="A chess game implemented in C++ by using OOP principles. It uses Min-Max algorithm to generate optimal computer moves to increase level of difficulty."
-              linkProject="https://github.com/J268sing/cpp/tree/master/Game-of-chess"
+              title="Shopify Project"
+              description="An android app that diplay at displays a Custom Collections list page and a Collection Details page of products of a Merchant. This project was made as a part of shopify Mobile Dev Challenge.This app uses shopify's api to show the items and was built in android studio."
+              linkProject="https://github.com/J268sing/shopify-project"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={toDo}
+              isBlog={false}
+              hasWebsite={false}
+              title="To Do"
+              description="A productivity app where users can organize their daily tasks to make the most out of the day consistently"
+              linkProject="https://github.com/J268sing/To-Do-App"
             />
           </Col>
 
@@ -94,38 +146,6 @@ function Projects() {
               title="TV-Script-Generator"
               description="Using Natural Language Processing, trained a recurrent neural network (RNN) that generates small new dialogues for Simpson's TV script"
               linkProject="https://github.com/J268sing/TV-Script-Generator"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={CryptoAlert}
-              isBlog={false}
-              hasWebsite={false}
-              title="Crypto Alert"
-              description="A real-time cryptocurrency Android app that notifies the users if any cryptocurrency’s price goes beyond their set limit. Backend built in Go using echo framework"
-              linkProject="https://github.com/J268sing/Crypto-Alert"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={shopifyLogo}
-              isBlog={false}
-              hasWebsite={false}
-              title="Shopify Project"
-              description="An android app that diplay at displays a Custom Collections list page and a Collection Details page of products of a Merchant. This project was made as a part of shopify Mobile Dev Challenge.This app uses shopify's api to show the items and was built in android studio."
-              linkProject="https://github.com/J268sing/shopify-project"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={toDo}
-              isBlog={false}
-              hasWebsite={false}
-              title="To Do"
-              description="A productivity app where users can organize their daily tasks to make the most out of the day consistently"
-              linkProject="https://github.com/J268sing/To-Do-App"
             />
           </Col>
         </Row>
