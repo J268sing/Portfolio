@@ -12,6 +12,7 @@ import Chess from "../../Assets/Projects/Chess.jpg";
 import TVscriptLogo from "../../Assets/Projects/TVscript.png";
 import FlowerPredictionLogo from "../../Assets/Projects/Flower-Prediction.png";
 import CryptoAlert from "../../Assets/Projects/CryptoAlert.jpg";
+import MyCrypto from "../../Assets/Projects/MyCrypto.jpg";
 
 function Projects() {
   return (
@@ -28,7 +29,7 @@ function Projects() {
 
         <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={CryptoAlert}
+              imgPath={MyCrypto}
               isBlog={false}
               hasWebsite={false}
               title="My Crypto"
@@ -36,7 +37,7 @@ function Projects() {
               get used to crypto world before putting in real money.
               This app is built using technologies like ANDROID ROOM for local storage database, DAGGER 2 for Dependency Injection and
               Restful Web Services using RETROFIT, OKHTTP, GLIDE, GSON and COROUTINES"
-              linkProject="https://github.com/J268sing/Crypto-Alert"
+              linkProject="https://github.com/J268sing/MyCrypto"
             />
           </Col>
 
