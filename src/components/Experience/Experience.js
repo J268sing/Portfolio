@@ -38,7 +38,7 @@ function Experience() {
         <ExperienceCard
           title="Stark Softwares"
           position="Software Developer"
-          timePeriod="May 2018 - August 2018"
+          timePeriod="May 2017 - August 2017"
           description1="Contributed to over 50 UI automation tests and debugged UI/UX issues, ensuring 100% compliance with quality"
           description2="Effectively wrote clean and reusable code for designing templates for clients and performed troubleshooting"
           description3="Automated testing that will be performed at all layers of programming interfaces "
