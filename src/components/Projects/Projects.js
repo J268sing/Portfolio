@@ -13,6 +13,8 @@ import TVscriptLogo from "../../Assets/Projects/TVscript.png";
 import FlowerPredictionLogo from "../../Assets/Projects/Flower-Prediction.png";
 import CryptoAlert from "../../Assets/Projects/CryptoAlert.jpg";
 import MyCrypto from "../../Assets/Projects/MyCrypto.jpg";
+import StockScreener from "../../Assets/Projects/StockScreener.png";
+import TrackingDubs from "../../Assets/Projects/trackingDubs.svg";
 
 function Projects() {
   return (
@@ -26,6 +28,31 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={StockScreener}
+              isBlog={false}
+              hasWebsite={true}
+              title="Stock Screener"
+              description="The stock screener app lets users filter and analyze real-time stock data from Yahoo-Finance2 API. It offers a customizable interface built with TailwindCSS, Radix UI, and Shadcn, providing smooth performance for tracking and making informed investment decisions."
+              linkProject="https://github.com/J268sing/stocks"
+              link="https://stocks-pied-three.vercel.app/"
+            />
+          </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={TrackingDubs}
+              isBlog={false}
+              hasWebsite={true}
+              title="TrackingDubs"
+              description="TrackingDubs Backend API provides an in-depth view of betting history, allowing bettors to gain insights into their past bets, strategies, and profitability. Built with Nest.js, Prisma, and PostgreSQL, it offers features such as secure authentication and CRUD operations for managing user and bet data."
+              linkProject="https://github.com/J268sing/tracking-dubs"
+              link="https://github.com/J268sing/tracking-dubs"
+            />
+          </Col>
 
         <Col md={4} className="project-card">
             <ProjectCard

@@ -76,7 +76,7 @@ function About2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:jashanbatth4@gmail.com"
+                  href="mailto:jashan.62@outlook.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

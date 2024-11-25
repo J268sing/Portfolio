@@ -40,7 +40,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/jashandeepsingh62/"
+                href="https://www.linkedin.com/in/jashandeepp/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -50,7 +50,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="mailto:jashanbatth4@gmail.com"
+                href="mailto:jashan.62@outlook.com"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
