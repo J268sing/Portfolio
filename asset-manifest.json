@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e3e0ecd6.chunk.css",
-    "main.js": "/portfolio/static/js/main.c006bd53.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c006bd53.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.22b8f8f4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.22b8f8f4.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bd3f87ba.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bd3f87ba.js.map",
     "static/css/2.d6dc494e.chunk.css": "/portfolio/static/css/2.d6dc494e.chunk.css",
-    "static/js/2.11448f6a.chunk.js": "/portfolio/static/js/2.11448f6a.chunk.js",
-    "static/js/2.11448f6a.chunk.js.map": "/portfolio/static/js/2.11448f6a.chunk.js.map",
+    "static/js/2.19783d4f.chunk.js": "/portfolio/static/js/2.19783d4f.chunk.js",
+    "static/js/2.19783d4f.chunk.js.map": "/portfolio/static/js/2.19783d4f.chunk.js.map",
     "static/js/3.baa6b4cf.chunk.js": "/portfolio/static/js/3.baa6b4cf.chunk.js",
     "static/js/3.baa6b4cf.chunk.js.map": "/portfolio/static/js/3.baa6b4cf.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.d6dc494e.chunk.css.map": "/portfolio/static/css/2.d6dc494e.chunk.css.map",
     "static/css/main.e3e0ecd6.chunk.css.map": "/portfolio/static/css/main.e3e0ecd6.chunk.css.map",
-    "static/js/2.11448f6a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.11448f6a.chunk.js.LICENSE.txt",
+    "static/js/2.19783d4f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.19783d4f.chunk.js.LICENSE.txt",
     "static/media/Chess.69ef11ba.jpg": "/portfolio/static/media/Chess.69ef11ba.jpg",
     "static/media/CryptoAlert.15d6e247.jpg": "/portfolio/static/media/CryptoAlert.15d6e247.jpg",
     "static/media/Flower-Prediction.3c9acc22.png": "/portfolio/static/media/Flower-Prediction.3c9acc22.png",
     "static/media/MyCrypto.80996e27.jpg": "/portfolio/static/media/MyCrypto.80996e27.jpg",
     "static/media/PyTorch.a30886e6.png": "/portfolio/static/media/PyTorch.a30886e6.png",
+    "static/media/StockScreener.6b1a93f8.png": "/portfolio/static/media/StockScreener.6b1a93f8.png",
     "static/media/TVscript.a73cb785.png": "/portfolio/static/media/TVscript.a73cb785.png",
     "static/media/avatar.5852f40f.svg": "/portfolio/static/media/avatar.5852f40f.svg",
     "static/media/style.css": "/portfolio/static/media/pre.d4812f51.svg",
@@ -27,13 +28,14 @@
     "static/media/resume.80590035.pdf": "/portfolio/static/media/resume.80590035.pdf",
     "static/media/shopifylogo.10ac9c09.jpg": "/portfolio/static/media/shopifylogo.10ac9c09.jpg",
     "static/media/socaCricketLogo.416f03cd.jpg": "/portfolio/static/media/socaCricketLogo.416f03cd.jpg",
-    "static/media/todo.c848f373.jpg": "/portfolio/static/media/todo.c848f373.jpg"
+    "static/media/todo.c848f373.jpg": "/portfolio/static/media/todo.c848f373.jpg",
+    "static/media/trackingDubs.8cc42ce9.svg": "/portfolio/static/media/trackingDubs.8cc42ce9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bd3f87ba.js",
     "static/css/2.d6dc494e.chunk.css",
-    "static/js/2.11448f6a.chunk.js",
+    "static/js/2.19783d4f.chunk.js",
     "static/css/main.e3e0ecd6.chunk.css",
-    "static/js/main.c006bd53.chunk.js"
+    "static/js/main.22b8f8f4.chunk.js"
   ]
 }
